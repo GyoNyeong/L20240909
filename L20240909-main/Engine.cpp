@@ -9,6 +9,7 @@
 void Engine::Input()
 {
 	KeyCode = _getch();
+	Stop();
 }
 
 void Engine::Render()
@@ -46,7 +47,6 @@ void Engine::Run()
 
 		Render();
 
-		Stop();
 	}
 }
 
