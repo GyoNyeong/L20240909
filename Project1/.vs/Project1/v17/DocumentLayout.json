@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\0826\\Project1\\",
+  "WorkspaceRootPath": "C:\\0909\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5234BC77-36CB-4AF2-9BD6-E7379D274A25}|Project1.vcxproj|C:\\0826\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5234BC77-36CB-4AF2-9BD6-E7379D274A25}|Project1.vcxproj|C:\\0909\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5234BC77-36CB-4AF2-9BD6-E7379D274A25}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5234BC77-36CB-4AF2-9BD6-E7379D274A25}|Project1.vcxproj|C:\\0909\\Project1\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5234BC77-36CB-4AF2-9BD6-E7379D274A25}|Project1.vcxproj|solutionrelative:Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5234BC77-36CB-4AF2-9BD6-E7379D274A25}|Project1.vcxproj|C:\\0909\\Project1\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5234BC77-36CB-4AF2-9BD6-E7379D274A25}|Project1.vcxproj|solutionrelative:Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.h",
+              "DocumentMoniker": "C:\\0909\\Project1\\Engine.h",
+              "RelativeDocumentMoniker": "Engine.h",
+              "ToolTip": "C:\\0909\\Project1\\Engine.h",
+              "RelativeToolTip": "Engine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T04:16:29.396Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\0909\\Project1\\Engine.cpp",
+              "RelativeDocumentMoniker": "Engine.cpp",
+              "ToolTip": "C:\\0909\\Project1\\Engine.cpp",
+              "RelativeToolTip": "Engine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T04:18:50.873Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\0826\\Project1\\main.cpp",
+              "DocumentMoniker": "C:\\0909\\Project1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\0826\\Project1\\main.cpp",
+              "ToolTip": "C:\\0909\\Project1\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-09T00:02:05.248Z",
               "EditorCaption": ""
